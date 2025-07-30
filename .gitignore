@@ -1,1 +1,8 @@
 ﻿_site
+/.project
+# Eclipse Files
+.settings/
+.loadpath
+.recommenders
+.classpath
+.project
